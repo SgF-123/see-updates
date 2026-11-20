@@ -84,3 +84,13 @@ pi update --models
 
 Pi 运行时与 see 桌面端具有独立版本周期。升级 Pi 前必须通过 RPC handshake 和
 兼容性检查。
+
+## License
+
+本仓库中的原创内容采用 [MIT License](LICENSE)：
+
+```text
+Copyright (c) 2026 SgF-123
+```
+
+应用内 Electron、Pi、字体、SDK 和其他第三方组件继续适用各自许可证。
